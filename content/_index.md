@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
+        - text: My interview for Calltech's Heritage Project
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
+          url: https://heritageproject.caltech.edu/interviews-updates/ashish-mahabal
+        - text: Check out ZARTH, the Pokemon GO for astronomy transients
           icon: brands/youtube
-          url: https://youtube.com
+          url: https://ztf.caltech.edu 
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://linkedin.com/in/ashish-mahabal-7927631/
 ---
